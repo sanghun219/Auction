@@ -14,4 +14,4 @@ require_once '../vendor/autoload.php';
 //
 //}
 
-phpinfo();
+echo 'hi';
