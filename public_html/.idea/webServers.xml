@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b6f527a7-7822-45bb-a227-aab25c6bd62b" name="root" url="http://localhost">
+        <fileTransfer rootFolder="/game/public_html" accessType="SFTP" host="localhost" port="22" sshConfigId="b114e8f1-27da-4f25-96f1-c23932d0f86a" sshConfig="root@localhost:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
